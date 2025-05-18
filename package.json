@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev"
+    "vercel-build": "next build"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.0.0",
